@@ -18,6 +18,7 @@ SETTINGS_COMMAND : ["settings", "setting", "सेटिंग्स", "से�
 RELOAD_COMMAND : ["admincache", "reload", "व्यवस्थापक कैश", "पुनः लोड करें"]
 STATS_COMMAND : ["stats", "आँकड़े"]
 LANGUAGE_COMMAND : ["lang", "language"]
+CLONE_COMMAND : ["clone"]
 
 # Play Commands
 PLAY_COMMAND : ["play", "vplay", "cplay", "प्ले", "वीप्ले"]
